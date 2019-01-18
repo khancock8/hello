@@ -9,8 +9,9 @@
 #include<stdio.h>
 
 int main(int argc, char **argv) {
-
+  printf("Kyle Hancock\n");
   printf("Electrical Engineering\n");
+  
   printf("Brent Lucke\n");
   printf("Marketing\n");
   printf("Tristan Ragland\n");
